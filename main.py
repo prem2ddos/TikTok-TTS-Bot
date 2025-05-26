@@ -3,7 +3,7 @@ from os import environ
 from telethon import TelegramClient, events, Button
 from functions import *
 
-API_ID = environ.get('API_ID' 25109257)
+API_ID = environ.get('API_ID' "25109257" )
 API_HASH = environ.get('API_HASH' "ca6e12ee79189ad6a5d01e6f3a2f9b31")
 BOT_TOKEN = environ.get('BOT_TOKEN' "7883119174:AAGuvtw7-mvKzAff8jPzhMiNvg1B9ZHxuE0")
 
